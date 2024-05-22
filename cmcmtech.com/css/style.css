@@ -356,7 +356,7 @@ button:hover,
 /* =Typography
 -------------------------------------------------------------- */
 .text-switch {
-  color: #fff;
+  color: black;
 }
 
 .text-small {
@@ -389,7 +389,7 @@ h4,
 h5,
 h6 {
   font-weight: 100;
-  color: #fff;
+  color: black;
 }
 
 .lead {
@@ -397,7 +397,7 @@ h6 {
 }
 
 .lead strong {
-  color: #fff;
+  color: black;
 }
 
 .section-title {
@@ -408,7 +408,7 @@ h6 {
   font-family: "Montserrat", sans-serif;
   font-size: 28px;
   font-weight: 400;
-  color: #fff;
+  color: black;
   margin: 0;
   line-height: 0.8;
 }
@@ -428,7 +428,7 @@ h6 {
 
 .heading-1 {
   font-family: "Montserrat", sans-serif;
-  color: #fff;
+  color: black;
   font-weight: 700;
   text-transform: uppercase;
   border-bottom: 1px solid #424242;
@@ -1575,7 +1575,7 @@ h1.scaleReveal {
   font-size: 33px;
   font-family: "Roboto", ssans-serif;
   font-weight: 100;
-  color: #fff;
+  color: black;
   margin-top: 18px;
 }
 
