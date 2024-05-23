@@ -275,7 +275,9 @@ button:hover,
 }
 .mb30 {
   margin-bottom: 30px !important;
+  
 }
+
 .mb40 {
   margin-bottom: 40px !important;
 }
@@ -318,6 +320,9 @@ button:hover,
 }
 .pr15 {
   padding-right: 15px;
+}
+.para{
+  color: white;
 }
 
 .no-margin {
@@ -2467,7 +2472,11 @@ span.portfolio-hover a {
   -webkit-box-shadow: 0px 14px 35px rgba(0, 0, 0, 0.15);
   box-shadow: 0px 14px 35px rgba(0, 0, 0, 0.15);
 }
-
+#map img{
+  width: 100%;
+  height: auto;
+  margin: 0 auto ;
+}
 /* =Footer
 -------------------------------------------------------------- */
 .theme-title {
@@ -2757,3 +2766,4 @@ footer hr {
     padding: 0 30px 20px 20px;
   }
 }
+#om{ color: black !important;}
